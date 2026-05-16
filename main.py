@@ -1,4 +1,3 @@
-# main.py (discord.py v2) — clean full file
 from __future__ import annotations
 
 import asyncio
